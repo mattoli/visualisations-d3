@@ -1,0 +1,6 @@
+/* CUSTOM STYLES */
+
+/* capitalize table headings */
+th.h2 {
+  text-transform: capitalize;
+}
