@@ -1,6 +1,6 @@
 // Set globals
 const url = "https://api.iextrading.com/1.0/"
-const endpoint = "tops/last"
+const endpoint = "/stock/msft/chart/1m"
 var data;
 
 // get the data
